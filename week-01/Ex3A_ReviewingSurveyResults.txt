@@ -1,0 +1,61 @@
+                   Student Survey Questions
+
+1.What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
+
+2.Do you have a second monitor connected to your computer?
+
+3.Do you have an external keyboard and mouse?
+
+4.How do you plan to take notes for this class – in a doc on your computer, with pen and paper, or something else?
+
+5.What is one question that you have right now, about this course generally or about a specific topic we’ll be talking about?
+
+
+
+1. What conclusion can you reach about the responses to this question?
+
+ -  Students envision themselves fully prepared 5 minutes before the class starts. There are more students that don't have a second monitor, external keyboard, or mouse than students who do have it. Most students plan to takes notes on a computer OR take notes with pen and paper, and computer. Student's questions about this course was about the curiosity of building tech skills, projects, and a data analytic role. Some students had no questions about the course yet.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+-  The visualization is helpful, it gives me more insight and a overall outlook.
+
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+
+ - You can find the actual text in "More details"; Students customized their own response. It can be tricky analyzing this because the actual text falls in the "Other" category and the visualization does not display the response automatically; you have to click for more details.
+
+
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+
+ - I noticed that everyone's process to ensure readiness before class looks different, even though the goal is the same. Also, most students have a different curiosity about the course and may have different concerns.
+
+
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+ - I think question 5 can be rephrased to: "What are you most excited about this course generally, and how do you think this course will be helpful to you?" Other than my recommendation, I like the question original question because it gives you insight on what to be prepared for. Also, I think the response options could be easier to navigate, less customizing making it more simple.
+
+Next respond to the below questions:
+
+6. Is there anything that surprised you about the survey responses?
+
+ - I wasn't surprised.
+
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about?
+
+ -  Yes! I'll make sure my devices are fully charged and dress professionally. I'm also curious about the same things, like how to interpret my work using data tools, complexity of the course, and where will my technical skills be by the end of the course.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help
+in how you approach teaching this class?
+
+ - Yes, I can learn about each student in a large group by identifying who has access to the essential tools to use throughout the course and who may have limited resources; I can also gain insight into each student's view of the course and what they would like to know. This is so helpful and your approach teaching the class will be stronger.   
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not? (If you can see both pros and cons,
+you may include both.)
+
+ - I can see both pros and cons. I think it's helpful because everyone is not comfortable with their name being displayed; this may prevent people from answering surveys honestly. Also if  responses are publicly visible, students may perceive this as a lack of privacy. I think it may not be helpful as an instructor because I'd like transparency to accurately assess the survey. 
