@@ -1,0 +1,3 @@
+/*
+The purpose of the sakila table is to track data for a movie production
+*/
